@@ -15,7 +15,8 @@ Follow these steps to install the app :
 A few moments later...
 ```
 
- 4. HURRAY! The app is installed.
+  HURRAY! The app is installed.
+
 
 Kindly note that all the updates regarding the application will be published in this page only.
  
